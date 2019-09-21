@@ -13,6 +13,11 @@
       "./src/testSetup.js"
     ]
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
   "dependencies": {
     "@babel/core": "^7.6.0",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
@@ -30,6 +35,9 @@
   },
   "devDependencies": {
     "babel-jest": "^24.9.0",
+    "husky": "^3.0.5",
+    "prettier": "1.18.2",
+    "pretty-quick": "^1.11.1",
     "webpack-dev-server": "^3.8.1"
   }
 }
