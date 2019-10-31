@@ -31,7 +31,7 @@
     "jest": "^24.9.0",
     "react": "^16.11.0",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.10"
   },
   "devDependencies": {
     "babel-jest": "^24.9.0",
