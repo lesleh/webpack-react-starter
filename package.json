@@ -30,7 +30,7 @@
     "html-webpack-plugin": "^4.0.1",
     "jest": "^25.1.0",
     "react": "^16.13.1",
-    "webpack": "^4.42.0",
+    "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
   },
   "devDependencies": {
