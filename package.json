@@ -34,7 +34,7 @@
     "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
-    "babel-jest": "^26.2.1",
+    "babel-jest": "^26.2.2",
     "husky": "^4.2.5",
     "prettier": "2.0.5",
     "pretty-quick": "^2.0.1",
