@@ -28,7 +28,7 @@
     "@babel/preset-react": "^7.10.4",
     "core-js": "^3.6.5",
     "html-webpack-plugin": "^4.5.0",
-    "jest": "^26.4.2",
+    "jest": "^26.5.0",
     "react": "^16.13.1",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12"
