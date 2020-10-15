@@ -29,7 +29,7 @@
     "core-js": "^3.6.5",
     "html-webpack-plugin": "^4.5.0",
     "jest": "^26.5.3",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "webpack": "^5.1.1",
     "webpack-cli": "^4.0.0"
   },
